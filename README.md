@@ -1,7 +1,7 @@
 ## Control Engineer - PhD student in applied mathematics
 
 - 🎓 From TU Delft to TU Berlin
-- 🔭 Currently working on model order reduction algorithms
+- 🔭 Currently working on model order reduction algorithms and making nonlinear eigenvalue problems less nonlinear and less of a problem
 
 <!--
 **aaborghi/aaborghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
