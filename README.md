@@ -1,4 +1,7 @@
-## Hi there 👋
+## Control Engineer - PhD student in applied mathematics
+
+- 🎓 From TU Delft to TU Berlin
+- 🔭 Currently working on model order reduction algorithms
 
 <!--
 **aaborghi/aaborghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
